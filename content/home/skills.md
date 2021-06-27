@@ -21,15 +21,11 @@ feature:
   icon_pack: fab
   name: R
 - description:
-  icon: chart-line
-  icon_pack: fas
-  name: Statistics
-- description: 10%
-  icon: camera-retro
+  icon: python
   icon_pack: fab
   name: Python
-- description: 10%
-  icon: camera-retro
+- description:
+  icon: java
   icon_pack: fab
   name: Java
 
