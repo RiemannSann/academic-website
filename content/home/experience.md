@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Quantitative Research Analyst
     company: GreatWall Securities
-    company_url: 'http://www.cgws.com/cczq/'
+    company_url: http://www.cgws.com/cczq/
     company_logo: org-gc
     location: Shanghai
     date_start: '2021-02-01'
@@ -34,7 +34,7 @@ experience:
         
   - title: DATA ANALYST
     company: OBM
-    company_url: 'http://www.obm.com.cn'
+    company_url: http://www.obm.com.cn
     company_logo: org-x
     location: Shanghai
     date_start: '2020-04-01'
