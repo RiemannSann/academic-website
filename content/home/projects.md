@@ -26,10 +26,8 @@ content:
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
   - name: All
-    tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
-  - name: Other
+    tag: Demo
+  - name: Undergraduate Project
     tag: Demo
 
 design:
