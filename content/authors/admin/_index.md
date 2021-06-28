@@ -59,7 +59,7 @@ email: ""
 highlight_name: false
 ---
 
-I am a student Majorring in Mathematics. I consider myself as a fast and brilliant learner. I earned a GPA of 94/100 in year 1 courses. In this semester, I got 68/70 (97%) in COMP24112 Machine Learning, 19/20 (95%) in MATH20912 Introduction to Financial Mathematics and MATH20802 Statistical Methods. For the other three courses(, MATH20712 Random Models, MATH20902 Discrete Mathematics, MATH20602 Numerical Analysis) in this semester, I currently get full marks (100%) after the mid exams in all courses. In last semester, I got 91% in MATH20701 Probability2, 87% in MATH20101 in Real Analysis, and 88% in Cumulative Total.
+I am a student Majorring in Mathematics. I consider myself as a fast and brilliant learner. I earned a GPA of 94/100 in year 1 courses. In Year 2, I currently get 68/70 (97%) in COMP24112 Machine Learning, 19/20 (95%) in MATH20912 Introduction to Financial Mathematics and MATH20802 Statistical Methods. For the other three courses(, MATH20712 Random Models, MATH20902 Discrete Mathematics, MATH20602 Numerical Analysis), I get full marks (100%) after the mid exams. In last semester, I got 91% in MATH20701 Probability2, 87% in MATH20101 in Real Analysis, and 88% in Cumulative Total.
 
 Besides, I have strong interpersonal skills. I know how to communicate efficiently with my teammates in a group project, and this is especially important in the remote working setting . I am easy-going and very active in my community - I took part in Chinese debate group in university of manchester and won the Northern League Cup Champion.
 
