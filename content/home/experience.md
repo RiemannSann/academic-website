@@ -40,12 +40,10 @@ experience:
     date_start: '2020-04-01'
     date_end: '2020-08-01'
     description: |2-
-    [Philips] 
-      * Grabbed data across platforms, cleaned and imported them to  database. 
-      * Analysed past data and predicted future tendency which helped Philips adjust strategy. 
-    [Company Internet]
-      * Built a module to crawl data in certain website automatically.    
-      * Built a module to make dynamic charts based on database, which will be applied to all future project.
+        * Grabbed data across platforms, cleaned and imported them to  database. 
+        * Analysed past data and predicted future tendency which helped Philips adjust strategy. 
+        * Built a module to crawl data in certain website automatically.    
+        * Built a module to make dynamic charts based on database, which will be applied to all future project.
 
 design:
   columns: '2'
