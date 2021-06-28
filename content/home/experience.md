@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Quantitative Research Analyst
     company: GreatWall Securities
-    company_url: http://www.cgws.com/cczq/
+    company_url: ''
     company_logo: org-gc
     location: Shanghai
     date_start: '2021-02-01'
@@ -34,17 +34,18 @@ experience:
         
   - title: DATA ANALYST
     company: OBM
-    company_url: http://www.obm.com.cn
+    company_url: ''
     company_logo: org-x
     location: Shanghai
     date_start: '2020-04-01'
     date_end: '2020-08-01'
     description: |2-
     [Philips] 
-    * Grabbed data across platforms, cleaned and imported them to  database. 
-    * Analysed past data and predicted future tendency which helped Philips adjust strategy. 
+      * Grabbed data across platforms, cleaned and imported them to  database. 
+      * Analysed past data and predicted future tendency which helped Philips adjust strategy. 
     [Company Internet]
-    * Built a module to crawl data in certain website automatically.    * Built a module to make dynamic charts based on database, which will be applied to all future project.
+      * Built a module to crawl data in certain website automatically.    
+      * Built a module to make dynamic charts based on database, which will be applied to all future project.
 
 design:
   columns: '2'
