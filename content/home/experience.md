@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Quantitative Research Analyst
     company: GreatWall Securities
-    company_url: 'xt'
+    company_url: 'http://www.cgws.com/cczq/'
     company_logo: org-gc
     location: Shanghai
     date_start: '2021-02-01'
@@ -32,14 +32,19 @@ experience:
     description: |2-
         Finished two quantitative projects: ‘Quantitative Market Timing Based on Mahalanobis Distance to Build Stock Investment Strategy‘ and ‘Fund Investment Strategies Based on Past Returns’.
         
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
+  - title: DATA ANALYST
+    company: OBM
+    company_url: 'http://www.obm.com.cn'
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Shanghai
+    date_start: '2020-04-01'
+    date_end: '2020-08-01'
+    description: |2-
+    [Philips] 
+    * Grabbed data across platforms, cleaned and imported them to  database. 
+    * Analysed past data and predicted future tendency which helped Philips adjust strategy. 
+    [Company Internet]
+    * Built a module to crawl data in certain website automatically.    * Built a module to make dynamic charts based on database, which will be applied to all future project.
 
 design:
   columns: '2'
